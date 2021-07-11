@@ -10,3 +10,7 @@ Carlos Franco: https://www.linkedin.com/in/carlosfranco74867b117/?originalSubdom
 Delfina Fava: https://www.linkedin.com/in/delfina-fava-630087202/?originalSubdomain=ar
 
 Nicolas Buccolo: https://www.linkedin.com/in/nicolas-buccolo-6120787/?originalSubdomain=ar
+
+En el siguiente enlace se pueden acceder a los archivos csv utilizados:
+
+https://drive.google.com/drive/folders/1ySl7UiXPdQpXOGmfx_anlGx5ysSFE3sn?usp=sharing
